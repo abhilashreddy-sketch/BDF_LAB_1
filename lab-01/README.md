@@ -63,8 +63,6 @@ BDF_LAB_1/
 │   │   ├── 01-home-endpoint.png
 │   │   ├── 02-about-endpoint.png
 │   │   ├── 03-time-endpoint.png
-│   │   ├── 04-404-endpoint.png
-│   │   ├── 05-server-running.png
 │   │   └── README.md
 │   │
 │   ├── server.js
@@ -180,8 +178,6 @@ HTTP status codes are standardized three-digit integers returned by web servers 
 
 ## Screenshots
 
-> ⚠️ **Verification Checklist**: Replace the placeholders below by saving your actual screenshots into the `lab-01/screenshots/` folder using the names listed. Capture them using `Win + Shift + S` while running your server.
-
 ### 1. Home Endpoint (`GET /`)
 ![Home Endpoint](screenshots/01-home-endpoint.png)
 
@@ -190,12 +186,6 @@ HTTP status codes are standardized three-digit integers returned by web servers 
 
 ### 3. Time Endpoint (`GET /time`)
 ![Time Endpoint](screenshots/03-time-endpoint.png)
-
-### 4. 404 Route Not Found Handling (`GET /invalid`)
-![404 Endpoint](screenshots/04-404-endpoint.png)
-
-### 5. Server Running in Terminal
-![Server Running](screenshots/05-server-running.png)
 
 ---
 

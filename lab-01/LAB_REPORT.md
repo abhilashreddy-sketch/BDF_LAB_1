@@ -277,8 +277,6 @@ Response Body: {"success":false,"message":"404 - Route Not Found"}
 
 ## 9. SCREENSHOTS RECORD
 
-> *Note for Student: Save your actual browser and terminal screenshots in `lab-01/screenshots/`.*
-
 ### Figure 1: Root Endpoint (`GET /`)
 ![Root Route Screenshot](screenshots/01-home-endpoint.png)
 
@@ -287,12 +285,6 @@ Response Body: {"success":false,"message":"404 - Route Not Found"}
 
 ### Figure 3: Time Endpoint (`GET /time`)
 ![Time Route Screenshot](screenshots/03-time-endpoint.png)
-
-### Figure 4: 404 Error Handling (`GET /invalid`)
-![404 Fallback Screenshot](screenshots/04-404-endpoint.png)
-
-### Figure 5: Servers Running in Terminal
-![Terminal Logs Screenshot](screenshots/05-server-running.png)
 
 ---
 
