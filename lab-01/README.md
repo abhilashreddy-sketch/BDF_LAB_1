@@ -1,6 +1,6 @@
 # Lab 1: Node.js and Express Server
 
-> **Public Deployment URL:** `https://appampally-abhilash-reddy-lab1.onrender.com` *(Replace with your deployed Render URL after completing Phase 7)*
+> **Public Deployment Status:** Pending Live Render Web Service URL *(Configure on render.com with Root Directory: `lab-01`, Start Command: `node server.js`)*
 
 ---
 
@@ -56,7 +56,7 @@ This project serves as an introductory hands-on implementation of core backend w
 ## Project Folder Structure
 
 ```text
-APPAMPALLY-ABHILASH-REDDY/
+BDF_LAB_1/
 │
 ├── lab-01/
 │   ├── screenshots/

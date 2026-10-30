@@ -85,7 +85,7 @@ HTTP response status codes indicate whether a specific HTTP request has been suc
 ## 5. STEP-BY-STEP PROCEDURE
 
 ### Step 1: Project Directory and Node.js Initialization
-1. Open Visual Studio Code terminal in the project directory `APPAMPALLY-ABHILASH-REDDY/lab-01`.
+1. Open Visual Studio Code terminal in the project directory `BDF_LAB_1/lab-01`.
 2. Initialize a new Node.js project manifest:
    ```bash
    npm init -y
@@ -364,5 +364,5 @@ The experiment on Node.js and Express Server was executed successfully. Through 
 
 ## 12. PROJECT SUBMISSION LINKS
 - **GitHub Repository URL:** `https://github.com/abhilashreddy-sketch/BDF_LAB_1`
-- **Render Public Deployment URL:** `https://appampally-abhilash-reddy-lab1.onrender.com`
-- **Lab 1 Folder Path:** `APPAMPALLY-ABHILASH-REDDY/lab-01`
+- **Render Public Deployment:** Pending Live Service URL Verification
+- **Lab 1 Folder Path:** `BDF_LAB_1/lab-01`

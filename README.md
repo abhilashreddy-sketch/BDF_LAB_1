@@ -1,10 +1,11 @@
-# APPAMPALLY-ABHILASH-REDDY
+# BDF_LAB_1
 
 ## Course: Backend Development Fundamentals
 **University:** Aurora University  
 **Student Name:** APPAMPALLY ABHILASH REDDY  
 **Registration Number:** 252U1R5008  
 **Section:** 106_AIDE  
+**GitHub Repository:** [https://github.com/abhilashreddy-sketch/BDF_LAB_1](https://github.com/abhilashreddy-sketch/BDF_LAB_1)  
 
 ---
 
@@ -18,7 +19,7 @@ This repository contains all laboratory assignments, practical implementations, 
 
 | Lab | Title | Tech Stack | Status | Documentation |
 | :--- | :--- | :--- | :--- | :--- |
-| **Lab 1** | [Node.js and Express Server](./lab-01/) | Node.js, Express.js, JavaScript | Completed & Deployed | [Lab 1 README](./lab-01/README.md) \| [Lab 1 Report](./lab-01/LAB_REPORT.md) |
+| **Lab 1** | [Node.js and Express Server](./lab-01/) | Node.js, Express.js, JavaScript | Local Tests Passed (Live URL Pending) | [Lab 1 README](./lab-01/README.md) \| [Lab 1 Report](./lab-01/LAB_REPORT.md) |
 
 ---
 
@@ -27,7 +28,8 @@ This repository contains all laboratory assignments, practical implementations, 
 - **Lab 1 Folder:** [`lab-01/`](./lab-01/)
 - **Express Server:** [`lab-01/server.js`](./lab-01/server.js)
 - **HTTP Server:** [`lab-01/http-server.js`](./lab-01/http-server.js)
-- **Public Render Deployment:** `https://appampally-abhilash-reddy-lab1.onrender.com` *(Update after deploying)*
+- **Public Render Deployment:** Pending Live URL Verification on Render
+- **GitHub Repository:** [https://github.com/abhilashreddy-sketch/BDF_LAB_1](https://github.com/abhilashreddy-sketch/BDF_LAB_1)
 
 ---
 
