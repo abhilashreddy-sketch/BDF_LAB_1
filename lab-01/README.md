@@ -1,6 +1,6 @@
 # Lab 1: Node.js and Express Server
 
-> **Public Deployment Status:** Pending Live Render Web Service URL *(Configure on render.com with Root Directory: `lab-01`, Start Command: `node server.js`)*
+> **Public Deployment URL:** [https://bdf-lab-1-ddyi.onrender.com](https://bdf-lab-1-ddyi.onrender.com) *(Verified & Live on Render)*
 
 ---
 

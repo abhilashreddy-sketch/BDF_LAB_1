@@ -19,7 +19,7 @@ This repository contains all laboratory assignments, practical implementations, 
 
 | Lab | Title | Tech Stack | Status | Documentation |
 | :--- | :--- | :--- | :--- | :--- |
-| **Lab 1** | [Node.js and Express Server](./lab-01/) | Node.js, Express.js, JavaScript | Local Tests Passed (Live URL Pending) | [Lab 1 README](./lab-01/README.md) \| [Lab 1 Report](./lab-01/LAB_REPORT.md) |
+| **Lab 1** | [Node.js and Express Server](./lab-01/) | Node.js, Express.js, JavaScript | Completed & Deployed | [Lab 1 README](./lab-01/README.md) \| [Lab 1 Report](./lab-01/LAB_REPORT.md) |
 
 ---
 
@@ -28,7 +28,7 @@ This repository contains all laboratory assignments, practical implementations, 
 - **Lab 1 Folder:** [`lab-01/`](./lab-01/)
 - **Express Server:** [`lab-01/server.js`](./lab-01/server.js)
 - **HTTP Server:** [`lab-01/http-server.js`](./lab-01/http-server.js)
-- **Public Render Deployment:** Pending Live URL Verification on Render
+- **Public Render Deployment:** [https://bdf-lab-1-ddyi.onrender.com](https://bdf-lab-1-ddyi.onrender.com)
 - **GitHub Repository:** [https://github.com/abhilashreddy-sketch/BDF_LAB_1](https://github.com/abhilashreddy-sketch/BDF_LAB_1)
 
 ---

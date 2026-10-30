@@ -363,6 +363,6 @@ The experiment on Node.js and Express Server was executed successfully. Through 
 ---
 
 ## 12. PROJECT SUBMISSION LINKS
-- **GitHub Repository URL:** `https://github.com/abhilashreddy-sketch/BDF_LAB_1`
-- **Render Public Deployment:** Pending Live Service URL Verification
+- **GitHub Repository URL:** [https://github.com/abhilashreddy-sketch/BDF_LAB_1](https://github.com/abhilashreddy-sketch/BDF_LAB_1)
+- **Render Public Deployment URL:** [https://bdf-lab-1-ddyi.onrender.com](https://bdf-lab-1-ddyi.onrender.com)
 - **Lab 1 Folder Path:** `BDF_LAB_1/lab-01`
